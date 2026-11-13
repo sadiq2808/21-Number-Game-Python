@@ -1,4 +1,4 @@
-<img width="760" height="291" alt="Screenshot 2026-11-13 115619" src="https://github.com/user-attachments/assets/938c9964-3bcf-4e52-94ba-1b23bc036c55" />## 🎮 21 Number Game
+## 🎮 21 Number Game
 
 A simple 21 Number Game built with Python, where the player competes against the computer by entering consecutive numbers.
 
@@ -34,19 +34,6 @@ The one who calls 21, loses the game.
 <img width="500" height="323" alt="Screenshot 2026-11-13 115635" src="https://github.com/user-attachments/assets/c0027998-b82b-42d1-91d2-bb78605e08a8" />
 <img width="646" height="425" alt="Screenshot 2026-11-13 115709" src="https://github.com/user-attachments/assets/09ee28e4-45fc-4722-9e22-5a2fd7fa3e5b" />
 
-
-
-
-## 📸 Screenshots
-
-### 1. Game Interface
-<img src="https://github.com/user-attachments/assets/926b8454-2c73-498c-868a-846248829127" width="760" alt="21 Number Game - Game Interface" />
-
-### 2. Gameplay
-<img src="https://github.com/user-attachments/assets/c0027998-b82b-42d1-91d2-bb78605e08a8" width="500" alt="21 Number Game - Gameplay" />
-
-### 3. Game in Action
-<img src="https://github.com/user-attachments/assets/09ee28e4-45fc-4722-9e22-5a2fd7fa3e5b" width="646" alt="21 Number Game - Game in Action" />
 
 
 

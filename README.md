@@ -21,9 +21,13 @@ This is a beginner-friendly Python console game created to practice fundamental 
 ## Game Rules
 
 The game is played between two players who take turns one after another.
+
 On each turn, a player can call 1 to 3 numbers.
+
 The numbers must be consecutive (for example, 5 6 7) skipping numbers leads to disqualification.
+
 The counting always starts from 1 and continues upward.
+
 The one who calls 21, loses the game.
 
 
